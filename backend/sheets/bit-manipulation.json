@@ -94,7 +94,7 @@
                   "difficulty": "easy",
                   "status": "not-started",
                   "links": {
-                    "gfg": "https://www.geeksforgeeks.org/find-element-appears-array-every-element-appears-twice/",
+                    "gfg": "",
                     "leetcode": "https://leetcode.com/problems/single-number/",
                     "youtube": "https://www.youtube.com/results?search_query=leetcode+136+single+number+XOR"
                   }
@@ -104,7 +104,7 @@
                   "difficulty": "medium",
                   "status": "not-started",
                   "links": {
-                    "gfg": "https://www.geeksforgeeks.org/find-element-appears-once-every-element-appears-twice/",
+                    "gfg": "",
                     "leetcode": "https://leetcode.com/problems/single-number-ii/",
                     "youtube": "https://www.youtube.com/results?search_query=leetcode+137+single+number+II"
                   }
